@@ -7,3 +7,6 @@
 ## [2023-07-30 | Wildfires, Water Crises, and Carbon Credits](https://github.com/just-noticeable/isr/blob/main/docs/2023-07-30.md#wildfires-water-crises-and-carbon-credits)
 
 ## [2023-09-29 | The US Has No Allies, Only Hostages](https://github.com/just-noticeable/isr/blob/main/docs/2023-09-28.md#the-us-has-no-allies-only-hostages)
+
+## [2023-12-09 | Must Fragrance Copy Stench, Question Mark Hostages](https://github.com/just-noticeable/isr/blob/main/docs/2023-09-28.md#the-us-has-no-allies-only-hostages)
+
