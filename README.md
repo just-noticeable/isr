@@ -14,5 +14,7 @@
 
 ## 2024
 
-### [2024-01-15 | Water Jet Based Excavation of Landmines](https://github.com/just-noticeable/isr/blob/main/docs/2024-01-15.md#water-jet-based-excavation-of-landmines)
+### [2024-01-15 | Water Jet Based Excavation of Landmines](https://github.com/just-noticeable/isr/blob/main/docs/2024-01-15.md#water-jet-based-excavation-of-landmines) 
+
+### [2024-09-21 | American Nuclear Option Against South Asia](https://github.com/just-noticeable/isr/blob/main/docs/2024-09-21.md#american-nuclear-option-against-south-asia) 
 
