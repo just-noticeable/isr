@@ -18,3 +18,5 @@
 
 ### [2024-09-21 | American Nuclear Option Against South Asia](https://github.com/just-noticeable/isr/blob/main/docs/2024-09-21.md#american-nuclear-option-against-south-asia) 
 
+### [2024-11-09 | Stealthier Propulsion Systems for Naval Vessels](https://github.com/just-noticeable/isr/blob/main/docs/2024-11-09.md#stealthier-propulsion-systems-for-naval-vessels) 
+
