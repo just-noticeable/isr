@@ -20,3 +20,5 @@
 
 ### [2024-11-09 | Stealthier Propulsion Systems for Naval Vessels](https://github.com/just-noticeable/isr/blob/main/docs/2024-11-09.md#stealthier-propulsion-systems-for-naval-vessels) 
 
+### [2025-05-09 | War Is Always Ugly](https://github.com/just-noticeable/isr/blob/main/docs/2025-05-09.md#war-is-always-ugly) 
+
