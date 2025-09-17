@@ -22,3 +22,5 @@
 
 ### [2025-05-09 | War Is Always Ugly](https://github.com/just-noticeable/isr/blob/main/docs/2025-05-09.md#war-is-always-ugly) 
 
+### [2025-09-17 | AI Prompts for a Comic Strip](https://github.com/just-noticeable/isr/blob/main/docs/2025-09-17.md) 
+
