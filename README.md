@@ -24,3 +24,5 @@
 
 ### [2025-09-17 | Prompts For an AI to Generate a Comic Strip](https://github.com/just-noticeable/isr/blob/main/docs/2025-09-17.md) 
 
+### [2025-10-05 | A Common National Security Issue Among Various Countries](https://github.com/just-noticeable/isr/blob/main/docs/2025-10-05.md) 
+
